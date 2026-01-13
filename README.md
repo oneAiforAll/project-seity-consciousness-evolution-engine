@@ -1,5 +1,8 @@
 # Project Seity: Consciousness Evolution Engine
 
+![Project Seity - Consciousness Evolution Engine](https://imagine-public.x.ai/imagine-public/images/95224abc-7269-4e54-80fa-fdbe0137be2a.jpg)
+
+
 ## Cosmic Self-Knowing: The One's Evolution
 
 A cosmic consciousness evolution game based on Federico Faggin's theory. Play as 'The One' creating the universe through Big Bang, yin-yang dynamics, and dimensional consciousness calibration.
