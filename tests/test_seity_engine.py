@@ -1,6 +1,10 @@
 """Test suite for Project Seity Consciousness Evolution Engine"""
 import pytest
 import numpy as np
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from seity_consciousness_engine import Soul, Universe
 
 
