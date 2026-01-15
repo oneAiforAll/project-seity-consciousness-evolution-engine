@@ -1,0 +1,11 @@
+# Project Seity - Consciousness Evolution Engine
+# Python dependencies
+
+numpy>=1.20.0
+matplotlib>=3.3.0
+dataclasses>=0.6;python_version<'3.7'
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0
+flake8>=5.0.0
